@@ -17,4 +17,4 @@ JICAにおけるData Science Community of Practice (CoP)におけるPython for D
 この８週間のトレーニングを終えたのちに、各自で「卒業制作」を発表していただくことを予定しています。
 
 以下がノートブックになります。
-[Week 1](master/Week1/Week1-Intro.ipynb.md)
+[Week 1](master/Week1/Week1-Intro.ipynb)
