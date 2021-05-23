@@ -12,6 +12,6 @@ JICAにおけるData Science Community of Practice (CoP)におけるPython for D
 | 5 | Recap | Notebook (作業中)
 | 6 | Machine learning | Notebook (作業中)
 | 7 | Geospatial analysis | Notebook (作業中)
-| 8 | Natural Language Processing | [Notebook (作業中)
+| 8 | Natural Language Processing | Notebook (作業中)
 
 この８週間のトレーニングを終えたのちに、各自で「卒業制作」を発表していただくことを予定しています。
