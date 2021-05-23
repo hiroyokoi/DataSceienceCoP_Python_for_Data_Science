@@ -1,7 +1,7 @@
 # Data Science Community of Practice
 # Python for Data Science Training
 
-JICAにおけるData Science Community of Practice (CoP)におけるPython for Data Science Trainingの研修教材です。研修構成（計８週間）は次のとおりです。
+JICAにおけるData Science Community of Practice (CoP)におけるPython for Data Science Trainingの研修教材です。研修構成（計８週間）は次のとおりです。なお、この８週間のトレーニングを終えたのちに、各自で「卒業制作」を発表していただくことを予定しています。
 
 | Week  | Topic | Link |  Binder |
 | ------------- | ------------- | ------------- | ------------- |
@@ -14,4 +14,4 @@ JICAにおけるData Science Community of Practice (CoP)におけるPython for D
 | 7 | Geospatial analysis | Notebook (作業中)
 | 8 | Natural Language Processing | Notebook (作業中)
 
-この８週間のトレーニングを終えたのちに、各自で「卒業制作」を発表していただくことを予定しています。
+
