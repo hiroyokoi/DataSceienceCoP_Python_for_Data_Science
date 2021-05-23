@@ -3,9 +3,9 @@
 
 JICAにおけるData Science Community of Practice (CoP)におけるPython for Data Science Trainingの研修教材です。研修構成（計８週間）は次のとおりです。
 
-| Week  | Topic |
-| ------------- | ------------- |
-| 1 | Introduction |
+| Week  | Topic | Link |
+| ------------- | ------------- | ------------- |
+| 1 | Introduction | [Notebook](https://github.com/hiroyokoi/DataSceienceCoP_Python_for_Data_Science/blob/master/Week1/Week1-Intro.ipynb) |
 | 2 | Numpy / Pandas-intro  |
 | 3 | Pandas |
 | 4 | Visualization (matplotlib, seaborn) |
