@@ -1,0 +1,8 @@
+selenium==3.141.0
+requests==2.25.1
+pandas==1.2.4
+numpy==1.20.2
+matplotlib==3.3.4
+seaborn==0.11.1
+lxml==4.6.3
+xlrd==1.2.0
