@@ -6,3 +6,5 @@ matplotlib==3.3.4
 mapclassify==2.4.3
 geopandas==0.8.1
 descartes==1.1.0
+pygeos==0.10.1
+rtree==0.9.7
