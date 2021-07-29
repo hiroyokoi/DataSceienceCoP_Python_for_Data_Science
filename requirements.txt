@@ -3,4 +3,6 @@ rasterio==1.2.6
 pandas==1.2.5
 numpy==1.20.2
 matplotlib==3.3.4
+mapclassify==2.4.3
 geopandas==0.8.1
+descartes==1.1.0
